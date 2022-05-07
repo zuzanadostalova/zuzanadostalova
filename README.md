@@ -1,16 +1,23 @@
-### Hi there 👋
+### Hi! I am Zuzana, a Junior Data Scientist
 
-<!--
-**zuzanadostalova/zuzanadostalova** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-----------------------------------------------------------------------------------
 
-Here are some ideas to get you started:
+I have recently graduated from Data Science Bootcamp at SIT Academy.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I have been working on the following projects:
+ 
+  - Olympics dataset analysis leveraging Supervised Machine Learning Algorithms
+  - Brain Tumor Detector leveraging Convolutional Neural Networks
+  - Swiss Hospital Assistant leveraging Inferential Statistics and Deep Learning
+
+-----------------------------------------------------------------------------------
+
+I am currently learning and very interested in discussing:
+
+- Natural Language processing applied to Life Science
+- Artificial Intelligence Explainability
+- Causal Inference in Complex Networks
+
+-----------------------------------------------------------------------------------
+
+📫 Get in touch with me on [LinkedIn](https://www.linkedin.com/in/zuzanadostalova00/) 
