@@ -1,12 +1,12 @@
-## Hi! I am Zuzana, a Junior Data Scientist
-
 -----------------------------------------------------------------------------------------------------------
-
-### I have recently graduated from Data Science Bootcamp at SIT Academy.
-
+## Hi! I am Zuzana, a Junior Data Scientist
 -----------------------------------------------------------------------------------------------------------
 ```diff
-+ I have been working on the following projects:
+! I have recently graduated from Data Science Bootcamp at SIT Academy.
+```
+-----------------------------------------------------------------------------------------------------------
+```diff
++ I have been working on the following projects: 
 ```
 
   - **Olympics dataset analysis** leveraging Supervised Machine Learning Algorithms
