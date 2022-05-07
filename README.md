@@ -4,6 +4,8 @@
 
 I have recently graduated from Data Science Bootcamp at SIT Academy.
 
+-----------------------------------------------------------------------------------
+
 - I have been working on the following projects:
  
   - Olympics dataset analysis leveraging Supervised Machine Learning Algorithms
@@ -12,11 +14,11 @@ I have recently graduated from Data Science Bootcamp at SIT Academy.
 
 -----------------------------------------------------------------------------------
 
-I am currently learning and very interested in discussing:
+- I am currently learning and very interested in discussing:
 
-- Natural Language processing applied to Life Science
-- Artificial Intelligence Explainability
-- Causal Inference in Complex Networks
+ - Natural Language processing applied to Life Science
+ - Artificial Intelligence Explainability
+ - Causal Inference in Complex Networks
 
 -----------------------------------------------------------------------------------
 
