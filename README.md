@@ -8,10 +8,10 @@ I have recently graduated from Data Science Bootcamp at SIT Academy.
 
 - I have been working on the following projects:
  
-  - *Olympics dataset analysis* leveraging Supervised Machine Learning Algorithms
-  - *Brain Tumor Detector* leveraging Convolutional Neural Networks
-  - *Measles Incidence and Vaccination Rate* leveraging Inferential Statistics and Data Visualization
-  - *Swiss Hospital Assistant* leveraging Inferential Statistics and Deep Learning
+  - **Olympics dataset analysis** leveraging Supervised Machine Learning Algorithms
+  - **Brain Tumor Detector** leveraging Convolutional Neural Networks
+  - **Measles Incidence and Vaccination Rate** leveraging Inferential Statistics and Data Visualization
+  - **/Swiss Hospital Assistant** leveraging Inferential Statistics and Deep Learning
 
 -----------------------------------------------------------------------------------------------------------
 
